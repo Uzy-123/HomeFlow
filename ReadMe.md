@@ -22,14 +22,13 @@ HomeFlow inclut une gestion dynamique des fonds d'écran :
 * L'interface des **Paramètres** de l'extension permet de choisir et d'afficher ces wallpapers directement dans votre nouvel onglet.
 * Étant donné que les images sont hébergées dans ce dépôt GitHub, vous profitez en bonus de la possibilité de les télécharger librement pour votre usage personnel.
 
-## 3. Instructions for use
+## 3. Mode d'emploi
 * **Le Dock :** Situé en bas de l'écran, il fonctionne sur le même principe que le Dock de macOS pour un accès rapide à vos sites favoris.
 * **Widgets :** Des outils intégrés à votre page d'accueil pour afficher vos informations essentielles en un coup d'œil.
 * **Icônes :** Utilisez la zone dédiée pour organiser vos raccourcis d'applications et sites web.
-* **Personnalisation :** Accédez au menu des paramètres de l'extension pour configurer vos widgets, vos icônes et sélectionner votre wallpaper.
-
+* **Personnalisation :** Faite un clique droit pour enter en mode édition, ajouter, retirer et déplacer des icône et des widget, aller dans les paramètre pour modifier vos icône, fond d'écran, utiliser, importer ou exporter vos configuration, changer la langue et être prévenu de la dernière version disponible
 ## 4. Crédit
-* **MStudio Web :** Uzy
+* Uzy
 
 ---
 *HomeFlow - Votre espace de travail numérique.*
